@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HARSH-TUBE/static/css/main.0b11734c.css",
+    "main.js": "/HARSH-TUBE/static/js/main.7dd3dfa7.js",
+    "index.html": "/HARSH-TUBE/index.html",
+    "main.0b11734c.css.map": "/HARSH-TUBE/static/css/main.0b11734c.css.map",
+    "main.7dd3dfa7.js.map": "/HARSH-TUBE/static/js/main.7dd3dfa7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b11734c.css",
+    "static/js/main.7dd3dfa7.js"
+  ]
+}
